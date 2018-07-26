@@ -49,10 +49,12 @@
 	console.log(typeof johnolder);
 	console.log(typeof agejohn);
 	console.log(typeof 'Mark is older than john'); // string
-	console.log(typeof x);   // undefined
-	
-	
+	console.log(typeof x);   // undefined	
 	</script>
+	
+```
+
 </body>
 </html>
-```
+
+---
