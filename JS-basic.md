@@ -1,13 +1,6 @@
 
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>javascript reference</title>
-</head>
+# Variables in javascript
 
-<body>
-	
 ```Javascript
 
 <script>
@@ -53,8 +46,5 @@
 	</script>
 	
 ```
-
-</body>
-</html>
 
 ---
