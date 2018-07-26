@@ -1,4 +1,4 @@
-```
+
 <!doctype html>
 <html>
 <head>
@@ -8,6 +8,8 @@
 
 <body>
 	
+```Javascript
+
 <script>
 	//alert
 	
