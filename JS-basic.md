@@ -48,3 +48,75 @@
 ```
 
 ---
+# switch in javascript
+```Javascript
+
+<script>
+		var job = 'teacher';
+		switch (job)  // switch is used instead of multiple if else case
+			{
+			case 'engineer':
+			console.log('her job is code' + job);
+			break;		
+			case 'teacher':
+			console.log('her job is teach' + job);
+			break;		
+			case 'driver':
+			console.log('her job is car' + job);
+				default:
+					console.log(job+ 'doing something else');
+			}
+		
+		var firstname= 'john';
+		age = 18;
+		 switch(true)
+			 {
+				 case age<13:
+   console.log(firstname + 'is a boy' );
+   case age >=13 && age <20:
+break;					 
+   console.log(firstname + 'is a teenager' );
+   case age >=13 && age <20:
+break;	
+	console.log(firstname + 'is a young man');
+	case age >=20 && age < 30:
+	default:				 
+	console.log(firstname + 'is a young man') 
+					 
+			 }
+		
+// condition can written in three fom if else, ternary, switch statement
+</script>
+---
+
+truthly & falsy
+	// falsy value = underfine, null , 0 , '' ,NaN
+		// truthy value =  taht are not falsy
+		
+	/*	var height;
+		
+		if(height)
+			{
+				console.log('varaible is defined');
+			}
+		else
+		{
+			console.log('variable is undefined');
+		}
+		
+		//result will be undefined, since height is not define 
+		
+		var height = 0;
+		
+		if(height || height===0) //height is 0
+			{
+				console.log{'varaible is defined'}
+			}
+		  else
+		{
+			console.log('variable is undefined');
+		}
+		
+		//result is variable is defined   */
+		
+		
